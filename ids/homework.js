@@ -48,7 +48,8 @@ x.setAttribute("src", "img/dom_basic.png");
 - Why do we use `.innerHTML` to change the heading but `.setAttribute`
   to change the diagram?
 
-  THe inner html is the content (text), the attribute would be the id
+
+THe inner html is the content (text), the attribute would be the id
 
 
 - What was different about the way we changed the `style` of the image

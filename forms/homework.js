@@ -52,6 +52,3 @@ When contents exist (text inside 2 tags), when want access the input we use attr
 
 .checked
 
-
-
-
